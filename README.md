@@ -2,7 +2,7 @@
   <img src="banner1.gif"/>
 </p>
 <p align="center">
- hii! you can call me Xio, im 23 years old; ive been into animanga since ~2010 and coding since ~2014 <br> 
+ hii! you can call me Xio, im 25 years old; ive been into animanga since ~2010 and coding since ~2014 <br> 
 i like magical girls, early internet, ugliness, angels & demons, vampires, artificial intelligence, mascots, horror and cutesy things !
   </p>
 <p align="center">
